@@ -4,6 +4,7 @@ Welcome to the official repository for the API documentation of the "Huze" proje
 
 ## Repository Links
 
+- Original Repository: [https://github.com/azhrzf/huze-api-docs](https://github.com/azhrzf/huze-api-docs)
 - GitHub Pages: [https://c23-ps404-huze-bangkit.github.io/api-docs/](https://c23-ps404-huze-bangkit.github.io/api-docs/)
 - Netlify Backup: [https://huze-docs.netlify.app/](https://huze-docs.netlify.app/)
 
